@@ -1,6 +1,3 @@
-var disqus_shortname="gogon_ost";
-var disqus_url = disqus_blogger_current_url;
-
 (function () {
     "use strict";
     var get_comment_block = function () {
